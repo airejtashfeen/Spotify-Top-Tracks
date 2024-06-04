@@ -1,3 +1,5 @@
+//This token gets updated every once in a while and can be taken from developer.spotify.com for your specific account
+
 const token = 'BQDQVK8khgiFKJGBZFR6Ym9dbnT_aP7WG10AvXRYQitc5vdtzwXv8XN1s0HsKi6ZVbWkmzE5d-37b17kfi3X0T4llozgM3eabhd2pK_X6JjlEMp08uqSV_3JMlkGFCfVgko4uhRi_rsLutgCTkMy34koiSzPOgBep_7q-0rM85Aj91JnVkfXibyX6bgUpcz1u2gWp8WrLd6aE1ZBNFZYp0AkpgQTdxi2frF_-n0lDhDSK6jL8i5N-f6j0VK1aLRDz36pFQa8iP9ONHIkl3Rv_6sM';
 
 async function fetchWebApi(endpoint, method, body) {
@@ -47,3 +49,4 @@ async function main() {
 }
 
 main().catch(err => console.error(err));
+
