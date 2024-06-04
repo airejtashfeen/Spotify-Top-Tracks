@@ -34,8 +34,8 @@ To run the server, use the following command:
 
    ```sh
    npm server.js
-
-
+  ```
+  
 ### Contact
 
 Airej Tashfeen - airejtashfeen620@gmail.com
