@@ -1,6 +1,6 @@
 # Spotify Top Tracks
 
-This project fetches and displays the top tracks from Spotify using their Web API.
+This project fetches and displays the top tracks of the year from Spotify using their Web API.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ To run the server, use the following command:
    ```sh
    npm server.js
   ```
-  
+
 ### Contact
 
 Airej Tashfeen - airejtashfeen620@gmail.com
